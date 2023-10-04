@@ -66,14 +66,14 @@ def get_long_description():
 
 
 setup(
-    name="stockstats",
+    name="stockstats2",
     version=version(),
     author="Cedric Zhuang",
     author_email="jealous@163.com",
     description="DataFrame with inline stock statistics support.",
     license="BSD",
     keywords="stock statistics indicator",
-    url="https://github.com/jealous/stockstats",
+    url="https://github.com/bsjung/stockstats2",
     py_modules=['stockstats'],
     platforms=['any'],
     long_description=get_long_description(),
