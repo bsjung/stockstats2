@@ -74,7 +74,7 @@ setup(
     license="BSD",
     keywords="stock statistics indicator",
     url="https://github.com/bsjung/stockstats2",
-    py_modules=['stockstats'],
+    py_modules=['stockstats2'],
     platforms=['any'],
     long_description=get_long_description(),
     classifiers=[
