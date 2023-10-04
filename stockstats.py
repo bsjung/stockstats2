@@ -241,7 +241,7 @@ class StockDataFrame(pd.DataFrame):
     # Start of options.
     KDJ_PARAM = (2.0 / 3.0, 1.0 / 3.0)
 
-    BOLL_STD_TIMES = 2
+    BOLL_STD_TIMES = 2.5
 
     DX_SMMA = 14
     ADX_EMA = 6
